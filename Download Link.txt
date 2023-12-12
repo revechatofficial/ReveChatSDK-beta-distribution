@@ -1,0 +1,10 @@
+itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/scl/fi/ejxks0q7ty7q05h70hx40/REVEChatSDK.plist?rlkey=40o0mrf9a5xr1gy2rbru3daan&dl=0
+
+
+1) ipa link:
+
+https://www.dropbox.com/scl/fi/gqqzysr1ikbaa7zql8uca/REVEChatSDK.ipa?rlkey=070opfvpnbzc678mev6objo8f&dl=0
+
+2) plist link:
+
+https://www.dropbox.com/scl/fi/ejxks0q7ty7q05h70hx40/REVEChatSDK.plist?rlkey=40o0mrf9a5xr1gy2rbru3daan&dl=0
