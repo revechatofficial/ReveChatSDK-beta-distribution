@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.revechatSdk.staging.new</string>
+				<string>com.revesdk.ProductionReveChatSDK18December</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>StagingReveChatSDK</string>
+				<string>ProductionReveChatSDK18December</string>
 			</dict>
 		</dict>
 	</array>
