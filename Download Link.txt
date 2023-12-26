@@ -6,6 +6,5 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 https://github.com/revechatofficial/ReveChatSDK-beta-distribution/releases/download/v1.0.1-beta/REVEChatSDK.ipa
 
 2) plist link:
-
-https://raw.githubusercontent.com/revechatofficial/ReveChatSDK-beta-distribution/main/REVEChatSDK.plist
+https://raw.githubusercontent.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/main/REVEChatSDK.plist
 
