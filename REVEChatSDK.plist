@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/releases/download/v13march2024/REVEChatSDK.ipa</string>
+					<string>https://github.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/releases/download/cbk_production/ReveChatSDK.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.revechatSdk.staging.new.13March</string>
+				<string>com.revesdk.CBKSDK14March</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Staging_QA_SingleInbox</string>
+				<string>CBK_PRODUCTION</string>
 			</dict>
 		</dict>
 	</array>
