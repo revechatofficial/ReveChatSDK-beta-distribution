@@ -1,4 +1,4 @@
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/main/REVEChatSDK_21_March_2024.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/cbk-single-inbox-21-march/CBK_SINGLE_INBOX_21032024.plist
 
 1) ipa link:
 
