@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.revesdk.CBKSDK14March</string>
+				<string>com.revechatSdk.staging.new.13March</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>CBK_PRODUCTION</string>
+				<string>Staging_QA_SingleInbox</string>
 			</dict>
 		</dict>
 	</array>
