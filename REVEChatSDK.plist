@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.revechatSdk.staging.new.13March</string>
+				<string>com.newdesign.qa.server</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Staging_QA_SingleInbox</string>
+				<string>S02_SingleInbox</string>
 			</dict>
 		</dict>
 	</array>
