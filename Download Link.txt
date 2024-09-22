@@ -1,4 +1,4 @@
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/new-ui-production-build/REVEChatSDK.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/revechatofficial/ReveChatSDK-iOS-beta-distribution/refs/heads/new-ui-production-build/REVEChatSDK.plist
 
 1) ipa link:
 
